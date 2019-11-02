@@ -1,0 +1,2 @@
+rm examples/*.asm examples/*.ini examples/*.cp examples/*.emcl include/*.ini src/*.asm src/*.ini src/*.cp src/*.emcl
+

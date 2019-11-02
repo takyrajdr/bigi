@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libbigi.a  CMakeFiles/bigi.dir/bigi.c.o CMakeFiles/bigi.dir/bigi_io.c.o
+/usr/bin/ranlib ../../lib/libbigi.a

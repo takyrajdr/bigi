@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/bigi.h
+stdint.h
+-
+
+../include/bigi_io.h
+stdint.h
+-
+bigi.h
+-
+
+/home/takyrajdr/Documents/research/software/bigi/examples/example.c
+stdint.h
+-
+bigi.h
+-
+bigi_io.h
+-
+../src/bigi_impl.h
+/home/takyrajdr/Documents/research/software/bigi/src/bigi_impl.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/home/takyrajdr/Documents/research/software/bigi/src/bigi_impl.h
+bigi.h
+-
+

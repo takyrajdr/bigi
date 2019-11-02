@@ -1,8 +1,0 @@
-/home/takyrajdr/Documents/research/software/bigi/build/CMakeFiles/rebuild_cache.dir
-/home/takyrajdr/Documents/research/software/bigi/build/CMakeFiles/edit_cache.dir
-/home/takyrajdr/Documents/research/software/bigi/build/src/CMakeFiles/rebuild_cache.dir
-/home/takyrajdr/Documents/research/software/bigi/build/src/CMakeFiles/bigi.dir
-/home/takyrajdr/Documents/research/software/bigi/build/src/CMakeFiles/edit_cache.dir
-/home/takyrajdr/Documents/research/software/bigi/build/examples/CMakeFiles/rebuild_cache.dir
-/home/takyrajdr/Documents/research/software/bigi/build/examples/CMakeFiles/desktop_example.dir
-/home/takyrajdr/Documents/research/software/bigi/build/examples/CMakeFiles/edit_cache.dir
